@@ -32,4 +32,4 @@ UNDERGRADUATE COURSES
 
 DOCTORAL COURSES
 ======
-2020/09/28-10/01: ALERT doctoral school 2020 -”Point based numerical methods in geomechanics
+* 2020/09/28-10/01: ALERT doctoral school 2020 -”Point based numerical methods in geomechanics

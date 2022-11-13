@@ -9,6 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- <span style="color:#9E3039;font-size:16px">  </span> per cambiare colore e dimensione al testo-->
 
 **[Download the CV](/files/CV_LARESE.pdf)**
 

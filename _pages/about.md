@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "About me"
-permalink: /
+permalink: /about/
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+<! --redirect_from: 
   - /about/
-  - /about.html 
+  - /about.html --> 
 ---
 
 
@@ -30,6 +30,6 @@ of different numerical techniques for the analysis of coupled problems accountin
 free surface flows, non-Newtonian materials and fluid-structure interaction including
 unfitted techniques.
 
-I am part of the [Kratos Multiphysics](http://kratosmultiphysics.github.)  community.
+I am part of the [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos/wiki)  community.
 
-I am editor-in-chief of Advances in Computational Sciences and Engineering [ACSE]() journal.
+I am editor-in-chief of Advances in Computational Sciences and Engineering [ACSE](https://www.aimsciences.org/ACSE) journal.

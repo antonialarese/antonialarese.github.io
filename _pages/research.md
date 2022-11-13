@@ -17,5 +17,5 @@ author_profile: true
 * Free surface flows:
 * Fluid Structure Interaction (FSI);
 * Coupled Problems;
-* Unfittet techniques for FSI;
+* Unfitted techniques;
 * Non-Newtonian materials;
