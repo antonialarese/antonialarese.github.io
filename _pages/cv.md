@@ -13,29 +13,28 @@ author_profile: true
 
 **[Download the CV](/files/CV_LARESE.pdf)**
 
-Education
-======
+## Education
+
 * 2012         PhD in Structural Analysis. UPC, Barcelona Spain
 * 2011         Máster en Métodos Numéricos Fundaciò Politècnica, Barcelona, Spain
 * 2006         MSc in Civil Engineering Università degli Studi di Padova (Italy)
 * 2000         High school scientific degree, Piove di Sacco -Padova- (Italy)
 
+## Work experience
 
-Work experience
-======
 * October 2021: Associate Professor in Hydraulic and Maritime Construction and Hydrology
   * Department of Mathematics
   * University of Padova, Italy
 
-* October 2021: Hans Fischer Fellow 
-  * Chair of Structural Analysis, 
+* October 2021: Hans Fischer Fellow
+  * Chair of Structural Analysis,
   * Institute for Advanced Studies, Technical University of Munich (TUM-IAS)
 
 * October 2018 - September 2021: Rita Levi Montalcini Assistant Professor
   * Department of Mathematics
   * University of Padova, Italy
 
-* July 2015 - June 2016: Junior Professor, postdoc fellowship 
+* July 2015 - June 2016: Junior Professor, postdoc fellowship
   * Civil Engineering School
   * Universitat Politècnica de Catalunya, UPC, Barcelona, Spain
 
@@ -55,5 +54,3 @@ Work experience
     * 2015 - Affiliated Scientist (internal agreement with UPC)
     * 2017 - Associate Research Professor and Juan de la Cierca fellow
   
-
-
