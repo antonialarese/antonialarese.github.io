@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 
-I am Associate Professor in Hydraulic and Maritime Constructions and Hydrology at the
+I am Associate Professor in  Maritime and Hydraulic  Constructions and Hydrology at the
 University of Padova, Italy (2021) and Hans Fischer Fellow at the Institute of Advanced
 Studies of the Technical University of Munich TUM-IAS, Germany (2021). 
 
@@ -22,13 +22,14 @@ Center for Numerical Methods in Engineering CIMNE, Barcelona and I have been par
 time lecturer at the Civil Engineering School of UPC, Barcelona, Spain. My PhD thesis
 was awarded the Special Doctorate Award by the UPC.
 
-I have been awarded the Rita Levi Montalcini fellowship (2018-2021) by the Italian Ministry, the Juan de la Cierva fellowship (2016-2018) by the Spanish Ministry and the PDJ fellowship by the regional
-Catalonian government (2014-2016). 
+I have been awarded the Hans Fischer Fellowship of the TUM-IAS (2021), the Rita Levi Montalcini fellowship (2018-2021) by the Italian Ministry, the Juan de la Cierva fellowship (2016-2018) by the Spanish Ministry and the PDJ fellowship by the regional
+Catalonian government (2014-2016).
 
-I work in computational mechanics with special focus on geomechanics and coupled problems. I have worked with different numerical approaches, from finite elements, to continuum-based particle methods, in both Lagrangian and Eulerian frameworks. I have worked on the development and combination
+I work in computational mechanics with special focus on coupled problems. I have worked with different numerical approaches, from finite elements, to continuum-based particle methods, in both Lagrangian and Eulerian frameworks. I have worked on the development and combination
 of different numerical techniques for the analysis of coupled problems accounting for
 free surface flows, non-Newtonian materials and fluid-structure interaction including
 unfitted techniques.
+My main research focuses on the simulation of the impact of natural disasters on structures and protective systems.
 
 I am part of the [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos/wiki)  community.
 

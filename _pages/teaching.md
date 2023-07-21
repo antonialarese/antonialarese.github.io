@@ -23,8 +23,8 @@ school UPC, Barcelona, Spain  (5ECTS);
 
 ## UNDERGRADUATE COURSES
 
-* 2018-present:  Linear Algebra –Industrial Engineering, Università degli Studi di Padova, Italy (9ECTS);
 * 2018-2019, 2021-present: Numerical Analysis – Industrial Engineering, Università degli Studi di Padova, Italy (6ECTS);
+* 2018-2023:  Linear Algebra –Industrial Engineering, Università degli Studi di Padova, Italy (9ECTS);
 * 2019- 2020: Numerical Analysis – Computer Science, Università degli Studi di Padova, Italy (6ECTS);
 * 2011-2018: Mechanics of Materials – Civil Engineering School – UPC, Barcelona, Spain (6ECTS);
 * 2011-2018: Theory of structures - Civil Engineering School – UPC, Barcelona, Spain  (6ECTS);
@@ -32,6 +32,7 @@ school UPC, Barcelona, Spain  (5ECTS);
 
 ## DOCTORAL or POST GRADUATE COURSES
 
+* 2023/10/07-08: [Short Course on Particle-Based Methods in Engineering and Applied Science](https://particlescourse2023.cimne.com/). The Material Point Method, Milan, Italy;
 * 2021/10/02-03: Short Course on Particle-Based Methods in Engineering and Applied Science. The Material Point Method, Hamburg, Germany;
 * 2020/09/28-10/01: ALERT doctoral school 2020 -”Point based numerical methods in geomechanics";
 * 2016/10: Material Point Method for goehazards (8 hours post graduate course). Departamento
