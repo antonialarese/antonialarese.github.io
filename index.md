@@ -12,11 +12,12 @@ PhD, Civil Engineer
 
 
 
-* **Associate Professor** 
-  Università degli Studi di Padova, Italy
-* **[Hans Fischer Fellow](https://www.ias.tum.de/ias/larese-antonia/)** 
-  Institute for Advanced Science of the Technical University of Munich TUM-IAS, 
-  Chair of Structural Analysis, TUM, Germany  
+- **Associate Professor** 
+  -   *Università degli Studi di Padova, Italy*
+
+- **Hans Fischer Fellow [TUM-IAS](https://www.ias.tum.de/ias/larese-antonia/)** 
+  -    *Institute for Advanced Studies,Technical University of Munich*
+  -    *Chair of Structural Analysis, TUM, Germany* 
 
 &nbsp;  
 
