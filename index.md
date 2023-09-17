@@ -24,7 +24,7 @@ PhD, Civil Engineer
 
 ---
 *CONTACT:*  
-Address:    Torre Archimede, office 4BC7, via Trieste 63, 35121 Padova, Italy  
+Address:    Torre Archimede, office 4CD7, via Trieste 63, 35121 Padova, Italy  
 Phone:      +39 049 827 1326  
 Email:      [antonia.larese@unipd.it](antonia.larese@unipd.it)
 
