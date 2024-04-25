@@ -10,12 +10,11 @@ author_profile: true
 ---
 
 
-I am Associate Professor in  Maritime and Hydraulic  Constructions and Hydrology at the
-University of Padova, Italy (2021) and Hans Fischer Fellow at the Institute of Advanced
-Studies of the Technical University of Munich TUM-IAS, Germany (2021). 
+I am Associate Professor in  Maritime and Hydraulic  Constructions and Hydrology at the University of Padova, Italy (2021) and Hans Fischer Fellow at the Institute of Advanced
+Studies of the Technical University of Munich TUM-IAS, Germany (2021).
 
 I got my MSc in Civil Engineer (five years degree) by the University of Padova, Italy (2006), M.Sc.in Numerical Methods (2011) and PhD in Structural Analysis (2012) by the Technical University of
-Catalonia (UPC), Spain. 
+Catalonia (UPC), Spain.
 
 Between 2008 and 2018 I have been working at the International
 Center for Numerical Methods in Engineering CIMNE, Barcelona and I have been part
@@ -31,6 +30,28 @@ free surface flows, non-Newtonian materials and fluid-structure interaction incl
 unfitted techniques.
 My main research focuses on the simulation of the impact of natural disasters on structures and protective systems.
 
+---
+<img src="/images/kratos_gris.png" width="250" style="float:left; padding-right:10px">
+
 I am part of the [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos/wiki)  community.
 
-I am editor-in-chief of Advances in Computational Sciences and Engineering [ACSE](https://www.aimsciences.org/ACSE) journal.
+&nbsp;  
+
+---
+<img src="/images/acse.jpg" width="80" style="float:left; padding-right:10px">
+
+I am editor-in-chief
+ of Advances in Computational Sciences and Engineering [ACSE](https://www.aimsciences.org/ACSE) journal.
+
+&nbsp;  
+
+---
+## In the web:
+
+Videoportrait as [TUM-IAS](https://www.youtube.com/watch?v=Lr1aGXO0ef0) fellow (05/2023)
+{% include youtube.html id="Lr1aGXO0ef0" %}
+Interview with Prof.Gianluigi Rozza (09/2023) at
+[TriesteNEXT 2023](https://www.youtube.com/watch?v=jXylWvmGgck&t=3s)
+{% include youtube.html id="jXylWvmGgck" %}
+Interview (01/2024) [People of Math @ UNIPD](https://www.youtube.com/watch?v=eBnFhDakgkA)
+{% include youtube.html id="eBnFhDakgkA" %}

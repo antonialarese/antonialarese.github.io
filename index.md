@@ -32,7 +32,6 @@ Email:      [antonia.larese@unipd.it](antonia.larese@unipd.it)
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
 
 <img src="/images/logos/unipd_logo.png" width="200" style="float:left">  &nbsp;&nbsp;&nbsp; <img src="images/logos/2015_Logo_TUM_RGB.jpg" width="100" style="float:right">   <img src="images/logos/IRC_IAS_RGB_blau.jpg" width="90" style="float:right">  
 
